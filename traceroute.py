@@ -21,4 +21,4 @@ if len(target) >=1 and target[0]!='':
     time.sleep(1)
     # subprocess.Popen("test.svg test.png",shell=True)
 else:
-    print("输入错误,退出")
+    print("输入错误呵呵呵呵,退出")
